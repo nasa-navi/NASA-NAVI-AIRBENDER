@@ -2,9 +2,9 @@
 
 ### Developed by Team NAVI
 **Members:**  
-- **JEONG AH YOON** — Project Lead & AI Personalization Designer  
-- **JIHOON JEONG** — Data Pipeline Architect & Visualization Engineer  
-- **JIHO RYU** — Data Scientist & Environmental Data Engineer  
+- [JIHO RYU](https://github.com/ryujihos0105)  
+- [JEONG AH YOON](https://github.com/jjyoon012-git)  
+- [JI HOON JEONG](https://github.com/jeehun3020) 
 
 **Challenge:**  
 [From EarthData to Action: Cloud Computing with Earth Observation Data for Predicting Cleaner, Safer Skies](https://www.spaceappschallenge.org/2025/challenges/from-earthdata-to-action-cloud-computing-with-earth-observation-data-for-predicting-cleaner-safer-skies)
